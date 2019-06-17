@@ -1,0 +1,110 @@
+---
+title: <br><br><center>ESMO GROUP<center>
+author: "Cutting Edge Events"
+date: "`r Sys.Date()`"
+output:
+  rmdformats::readthedown:
+    highlight: kate
+    thumbnails: false
+    lightbox: true
+    gallery: true
+    css: form.css
+---
+
+<script> 
+    $(document).ready(function() { 
+    $head = $('#header'); 
+    $head.prepend('<A href = https://www.cuttingedge-events.com><img src ="LOGO.png" width="150" vspace="50" align="right"></A>') 
+    }); 
+</script> 
+
+
+
+```{r echo=FALSE, message=FALSE,warning=FALSE}
+library(readxl)
+library(shiny)
+library(dplyr)
+library(knitr)
+```
+
+## **HOTEL OPTIONS** {.tabset .tabset-fade .tabset-pills}
+
+### HOTEL CATALONIA AVINYÓ 3*
+
+<br>
+
+* **Location**: Las Ramblas
+
+This fantastic hotel Catalonia Avinyó  is situated only a few metres from Plaza Sant Jaume in the centre of the emblematic Gothic quarter of Barcelona and very near to Ramblas. Its privileged location means that guests are only a walk away from the city's most charismatic areas.
+
+The hotel's minimalist design creates an interesting contrast with the nearby buildings. You can also see every aspect of Barcelona thanks to the panoramic views from the swimming pool on the terrace. The hotel also offers a fitness room with free access to all customers.
+
+The modern, minimalist design of each room in this hotel will take you to another world and offer the possibility of disconnecting from the city's hustle and bustle for a few hours.
+
+The hotel Catalonia Avinyó is surrounded by some of the city's most beautiful places, next to the avant-garde, Bohemian quarter of El Born, where you can enjoy the busy atmosphere, the best tapas and the most exclusive boutiques in a picturesque mediaeval setting.
+
+<img src = "https://macuvi-incoming.com/wp-content/uploads/2014/06/89628139-1.jpg" width="720">
+
+<br>
+
+<img src = "https://t-ec.bstatic.com/images/hotel/max1024x768/896/89629232.jpg" width="720">
+
+### HOTEL CATALONIA PARK PUTXET 4*
+
+<br>
+
+* **Location**: Gracia district
+
+This pleasant hotel is located in the upper part of Barcelona, near Park Güell and in the residential area of El Putxet. It is well connected with the city's historical centre and near to important tourist attractions.
+
+This pleasant hotel seeks to offer you your best stay in the city. The rooms are comfortable and welcoming. Guests also have an interesting snack bar, an entertaining place with a young atmosphere for meeting friends. The hotel also offers a fitness room with free access to all customers and a swimming pool.
+
+Located in a peaceful residential area between the lively neighbourhood of Gràcia and Park Güell, one of the leading works by Gaudí, you’ll find the Catalonia Putxet hotel with a rooftop terrace and pool to take in stunning views across the city and enjoy Barcelona's fine weather and sunshine after a busy day of sightseeing.
+
+The hotel is close to the Lesseps metro station (green line) which will take you quickly into the Passeig de Gràcia shopping area or Plaça de Catalunya and Les Rambles.
+
+<img src = "https://storage.googleapis.com/static-content-hc/sites/default/files/habitacion-superior-putxet-slider_0.jpg" width="720">
+
+<br>
+
+<img src = "https://storage.googleapis.com/static-content-hc/sites/default/files/cataloniaparkputxet_piscina_8.jpg" width="720">
+
+### HOTEL BCN CONDAL MAR 4*
+
+<br>
+
+* **Location**: 22@ distric
+
+The Hotel TRYP Barcelona Condal Mar has 178 rooms and 10 meeting rooms for conventions and business events. The hotel enjoys a perfect location just 800 metres from the International Convention and Congress Centre (CCIB), next to Diagonal Mar shopping mall and the 22@ innovation district, Diagonal Mar (Fórum). 
+
+The tram and metro stations are just 100 metres away, meaning guests can easily reach any part of the city of Barcelona. In just 15 minutes you can get to downtown Barcelona, the Gothic Quarter and the Borne. 
+The hotel also features free Wifi in the entire hotel; hotel with an innovative design; a few metres from the beach of Mar Bella, in the district of Diagonal Mar; outdoor pool bar with a terrace overlooking the city of Barcelona with panoramic views; gym; breakfast buffet; lobby bar; 10 events and meeting rooms with capacity for 200 people; car park. 
+
+<img src = "https://foto.hrsstatic.com/fotos/0/3/545/350/80/000000/http%3A%2F%2Ffoto-origin.hrsstatic.com%2Ffoto%2F1%2F9%2F0%2F3%2F190370%2F190370_z34_22181357.jpg/2LnThAa4%2FLkum5D5JdMYvA%3D%3D/1500,1000/6/Hotel_BCN_Condal_Mar_managed_by_Melia-Barcelona-Doppelzimmer_Komfort-190370.jpg" width="720">
+
+<br>
+
+<img src = "https://thumbnails.trvl-media.com/r54BJYa8LCeiWdbdNY1Pj2XRmnw=/773x530/smart/filters:quality(60)/images.trvl-media.com/hotels/2000000/1210000/1204400/1204389/5c1394bc_z.jpg" widht="72'">
+
+## MAPS AND LOCATION
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1LwycftqvzVTx4UdKfZDN5LNIIz9ZLU_n&hl=es" width="720" height="480"></iframe>
+
+****
+
+## Terms & Conditions
+
+  * Rates valid for 2019.
+  
+  * Cutting Edge Events management fee including in the detailed rates
+  
+  * VAT included. 
+  
+  * No reservation has been done. Availability upon request.
+  
+*****
+
+
+
+
+
